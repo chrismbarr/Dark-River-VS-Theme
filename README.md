@@ -48,7 +48,7 @@ The background color is actually more of a dark grey, and these seem to show it 
 ### ASP.NET
 ![Imgur](http://i.imgur.com/e3oAF9w.jpg)
 
-### C\#
+### C Sharp
 ![Imgur](http://i.imgur.com/NrsqRy7.jpg)
 
 ### Razor
