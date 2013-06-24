@@ -54,6 +54,9 @@ The background color is actually more of a dark grey, and these seem to show it 
 ### Razor
 ![Imgur](http://i.imgur.com/rIkSEl8.jpg)
 
+### JavaScript
+![Imgur](http://i.imgur.com/LrsZU0H.png)
+
 ### SASS/SCSS
 ![Imgur](http://i.imgur.com/BVcStnN.jpg)
 
