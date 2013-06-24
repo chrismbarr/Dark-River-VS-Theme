@@ -42,13 +42,13 @@ If you have ReSharper more syntax coloring support can be added by clicking the 
 ------------
 
 # Here's what the theme looks like!
-## NOTE: Unfortunatly these images do not fully represent what the theme looks like.
+**NOTE:** Unfortunatly these images do not fully represent what the theme looks like.
 The background color is actually more of a dark grey, and these seem to show it as black.
 
 ### ASP.NET
 ![Imgur](http://i.imgur.com/e3oAF9w.jpg)
 
-### C#
+### C\#
 ![Imgur](http://i.imgur.com/NrsqRy7.jpg)
 
 ### Razor
