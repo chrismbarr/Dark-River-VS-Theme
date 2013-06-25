@@ -42,28 +42,26 @@ If you have ReSharper more syntax coloring support can be added by clicking the 
 ------------
 
 # Here's what the theme looks like!
-**NOTE:** Unfortunatly these images do not fully represent what the theme looks like.
-The background color is actually more of a dark grey, and these seem to show it as black.
 
-### ASP.NET
-![Imgur](http://i.imgur.com/e3oAF9w.jpg)
+### HTML/ASP.NET
+![Imgur](http://i.imgur.com/LaR9tqW.jpg)
 
 ### C Sharp
-![Imgur](http://i.imgur.com/NrsqRy7.jpg)
+![Imgur](http://i.imgur.com/WLD9wZg.jpg)
 
 ### Razor
-![Imgur](http://i.imgur.com/rIkSEl8.jpg)
+![Imgur](http://i.imgur.com/6ooejkm.jpg)
 
 ### JavaScript
 ![Imgur](http://i.imgur.com/LrsZU0H.png)
 
 ### SASS/SCSS
-![Imgur](http://i.imgur.com/BVcStnN.jpg)
+![Imgur](http://i.imgur.com/iYVWSPB.jpg)
 
 ### VB
-![Imgur](http://i.imgur.com/klvfEsg.jpg)
+![Imgur](http://i.imgur.com/4SjyV08.jpg)
 
 ### XML
-![Imgur](http://i.imgur.com/c6UYcax.jpg)
+![Imgur](http://i.imgur.com/o3UlQcT.jpg)
 
 (A few other languages have support too, but these are the more common ones)
