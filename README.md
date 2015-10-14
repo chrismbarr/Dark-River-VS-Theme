@@ -1,5 +1,5 @@
 # Dark Visual Studio Theme
-###(There is no need for this in VS2013 or higher, as these versions already have a deark theme built in!)
+###(There is no need for this in VS2013 or higher, as these versions already have a dark theme built in!)
 A dark code scheme for Visual Studio 2012
 
 --------
